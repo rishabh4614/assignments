@@ -1,0 +1,14 @@
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\bin\Debug\netcoreapp3.1\Assignment_7.exe
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\bin\Debug\netcoreapp3.1\Assignment_7.deps.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\bin\Debug\netcoreapp3.1\Assignment_7.runtimeconfig.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\bin\Debug\netcoreapp3.1\Assignment_7.runtimeconfig.dev.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\bin\Debug\netcoreapp3.1\Assignment_7.dll
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\bin\Debug\netcoreapp3.1\Assignment_7.pdb
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\obj\Debug\netcoreapp3.1\Assignment_7.csproj.AssemblyReference.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\obj\Debug\netcoreapp3.1\Assignment_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\obj\Debug\netcoreapp3.1\Assignment_7.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\obj\Debug\netcoreapp3.1\Assignment_7.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\obj\Debug\netcoreapp3.1\Assignment_7.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\obj\Debug\netcoreapp3.1\Assignment_7.dll
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\obj\Debug\netcoreapp3.1\Assignment_7.pdb
+C:\Users\Rishabh\Documents\Visual Studio 2019\Templates\Assignment_7\obj\Debug\netcoreapp3.1\Assignment_7.genruntimeconfig.cache
